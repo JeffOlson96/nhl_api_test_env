@@ -14,4 +14,4 @@ You will also see any lint errors in the console.
 
 using an api set up to serve a bunch of nhl data
 
-[NHL API] (https://github.com/dword4/nhlapi)
+[NHL API](https://github.com/dword4/nhlapi)
